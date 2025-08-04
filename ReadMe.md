@@ -1,10 +1,9 @@
-# 💫 About Me:
-🔭 Em transição de carreira para área de Ciência de Dados<br>👯 Estou a procura de oportunidades na área de Ciência de Dados<br>🌱 Atualmente Estudo Ciência de Dados pela Escola DNC<br>
-⚡ Engenheiro Agrônomo
-📁 Explorando dados para decisões mais inteligentes e sustentáveis
-📊 Python • Pandas • Scikit-learn • SQL • Power BI
-
-
+🌱 Engenheiro Agrônomo<br>
+🔭 Em transição de carreira para área de Ciência de Dados<br>
+📁 Explorando dados para decisões mais inteligentes e sustentáveis<br>
+📊 Python • Pandas • Scikit-learn • SQL • Power BI<br>
+👯 Estou a procura de oportunidades na área de Ciência de Dados<br>
+⚡ Atualmente Estudo Ciência de Dados pela Escola DNC<br> 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alexandrehenriqueferreira0286) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandre-eng-agronomo) 
 
