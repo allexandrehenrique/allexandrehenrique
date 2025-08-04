@@ -1,7 +1,8 @@
 # 💫 About Me:
-🔭 Em transição de carreira para área de Ciência de Dados<br>👯 Estou a procura de oportunidades na área de Ciência de Dados<br>🌱 Atualmente Estudo Ciência de Dados pela Escola DNC<br>⚡ Engenheiro Agrônomo
-📊 Python • Pandas • Scikit-learn • SQL • Power BI
-📁 Explorando dados para decisões mais inteligentes e sustentáveis
+🔭 Em transição de carreira para área de Ciência de Dados<br>👯 Estou a procura de oportunidades na área de Ciência de Dados<br>🌱 Atualmente Estudo Ciência de Dados pela Escola DNC<br>
+⚡ Engenheiro Agrônomo>
+📊 Python • Pandas • Scikit-learn • SQL • Power BI>
+📁 Explorando dados para decisões mais inteligentes e sustentáveis>
 
 
 ## 🌐 Socials:
