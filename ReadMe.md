@@ -2,10 +2,10 @@
 
 
 
-**Cientista de Dados em transição | Engenheiro Agrônomo | Especialista em Agroanálises**  
+**Engenheiro Agrônomo | Cientista de Dados | Especialista em Agroanálises**  
 
 Sou formado em **Engenharia Agronômica**, com mais de **15 anos de experiência** em **consultoria técnica comercial**, **serviços administrativos** e **licenciamento ambiental**, atuando com culturas como **hortifrúti, cereais e café**.  
-Nos últimos anos, descobri minha paixão por **análise de dados** e **inteligência aplicada ao agronegócio**, o que me motivou a migrar para a área de **Ciência de Dados**.  
+Nos últimos anos, descobri minha paixão por **análise de dados** e **inteligência aplicada ao agronegócio**, o que me motivou a me aperfeiçõar para a área de **Ciência de Dados**.  
 
 Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorando ferramentas como **Python, Power BI, SQL e Excel** para gerar **insights estratégicos** que apoiam a tomada de decisão no campo e no mercado.  
 
@@ -15,7 +15,7 @@ Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorand
 - Data Science e Machine Learning aplicados ao Agronegócio  
 - Análise de produtividade e previsões de safra  
 - Dashboards de desempenho técnico e comercial  
-- Modelagem preditiva de preços de commodities e insumos agrícolas  
+- Modelagem preditiva para o agronegócio 
 
 ---
 
