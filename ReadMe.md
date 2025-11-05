@@ -11,7 +11,7 @@ Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorand
 
 ---
 
-### 🌾 Áreas de Interesse
+# 🌾 Áreas de Interesse
 - Data Science e Machine Learning aplicados ao Agronegócio  
 - Análise de produtividade e previsões de safra  
 - Dashboards de desempenho técnico e comercial  
@@ -19,13 +19,13 @@ Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorand
 
 ---
 
-### 🌐 Você pode me contatar
+# 🌐 Você pode me contatar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-ferreira)  
 [![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+# 🛠️ Tecnologias que utilizo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
@@ -33,7 +33,7 @@ Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorand
 
 ---
 
-### 📈 Atualmente aprendendo
+# 📈 Atualmente aprendendo
 - Machine Learning aplicado a dados agrícolas  
 - Streamlit e FastAPI para deploy de modelos  
 - Automação de análises e dashboards interativos  
