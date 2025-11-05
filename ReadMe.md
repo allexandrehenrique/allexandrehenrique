@@ -12,7 +12,9 @@ Atualmente, venho unindo minha experiência prática no setor à formação em C
 
 # 💻 Tecnologias que utilizo:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-Python SQL Excel
+![Python]
+![SQL]
+![Excel]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=allexandrehenrique&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
