@@ -6,7 +6,6 @@
 
 Sou formado em **Engenharia Agronômica**, com mais de **15 anos de experiência** em **consultoria técnica comercial**, **serviços administrativos** e **licenciamento ambiental**, atuando com culturas como **hortifrúti, cereais e café**.  
 Nos últimos anos, descobri minha paixão por **análise de dados** e **inteligência aplicada ao agronegócio**, o que me motivou a me aperfeiçõar para a área de **Ciência de Dados**.  
-
 Atualmente, desenvolvo **soluções analíticas para o agronegócio**, explorando ferramentas como **Python, Power BI, SQL e Excel** para gerar **insights estratégicos** que apoiam a tomada de decisão no campo e no mercado.  
 
 ---
